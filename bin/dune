@@ -1,0 +1,4 @@
+(executable
+ (public_name mosaic)
+ (name main)
+ (libraries mosaic))
